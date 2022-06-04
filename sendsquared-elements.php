@@ -3,7 +3,7 @@
 /**
  * Plugin Name: SendSquared Elementor Addon
  * Description: Simple form hook for Elementor.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      Nicolas Wegener
  * Author URI:  https://sendsquared.com/
  */
@@ -29,7 +29,7 @@ final class Send_Squared_Elements
 	 *
 	 * @var string The plugin version.
 	 */
-	const VERSION = '1.0.1';
+	const VERSION = '1.0.2';
 
 	/**
 	 * Minimum Elementor Version
